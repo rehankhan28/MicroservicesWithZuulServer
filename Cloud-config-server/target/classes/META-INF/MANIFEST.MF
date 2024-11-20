@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: REHAN
+Build-Jdk: 21.0.4
+Implementation-Title: Cloud-config-server
+Implementation-Version: 1.1
+Implementation-Vendor-Id: com.example
+Implementation-URL: https://spring.io/projects/spring-boot/Cloud-config-
+ server
+Created-By: Maven Integration for Eclipse
+
